@@ -1,3 +1,7 @@
+/* 
+  Header module css its good for vanilla JS only when u seperate CSS from global css 
+  you can import this css into your pages 
+*/
 header {
   display: flex;
   flex-direction: column;
